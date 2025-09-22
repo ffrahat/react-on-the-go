@@ -1,0 +1,11 @@
+.border{
+  border: 2px solid red;
+  padding: 20px ;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
